@@ -1963,7 +1963,6 @@
 					};
 					4EE05F781A10EDE700DE4226 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 9397MGXMJF;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -3123,9 +3122,9 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited) -D CYKELPLANEN";
-				PRODUCT_BUNDLE_IDENTIFIER = dk.socialsquare.CykelPlanen;
+				PRODUCT_BUNDLE_IDENTIFIER = "Spoiled-Milk.CSS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "65eaae2e-b7eb-460e-9a27-2a7fccdc5917";
 			};
 			name = Debug;
 		};
@@ -3136,8 +3135,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Region Hovedstaden (2S6P2V9TSL)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Region Hovedstaden (2S6P2V9TSL)";
 				CODE_SIGN_RESOURCE_RULES_PATH = "";
 				CYKEL_PLANEN = 1;
 				DEFINES_MODULE = YES;
@@ -3162,9 +3161,9 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited) -D CYKELPLANEN";
-				PRODUCT_BUNDLE_IDENTIFIER = dk.socialsquare.CykelPlanen;
+				PRODUCT_BUNDLE_IDENTIFIER = "Spoiled-Milk.CSS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "65eaae2e-b7eb-460e-9a27-2a7fccdc5917";
 			};
 			name = Release;
 		};
